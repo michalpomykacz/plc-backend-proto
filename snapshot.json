@@ -1,0 +1,21 @@
+{
+  "places": [
+    {
+      "id": "057ace25-e901-42e8-acf9-f7f3664dfaab",
+      "name": "Room1",
+      "services": [
+        {
+          "id": "057ace25-e901-42e8-acf9-f7f3664dfaac",
+          "name": "service1",
+          "arguments": [
+            {
+              "id": "057ace25-e901-42e8-acf9-f7f3664dfaad",
+              "name": "arg1",
+              "_type": "float"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
